@@ -6,7 +6,7 @@ III año - Desarrollo de Software CDB
 
 1- 
 2-
-3- 
+3- Cristian Alexis López Tamayo #18
 4- Diego Ariel Martinez Lemus #24 
 5- Edmilson Alejandro Martínez Reynosa #25
 
