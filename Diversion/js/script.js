@@ -3,13 +3,13 @@
 // "_SlideActual" es la imagen que se debera presentar en dicho momento.
 
 var slideIndex = 1; 
-showDivs(slideIndex); 
+  CambiarImg(slideIndex); 
 
-function plusDivs(n) {
-  showDivs(slideIndex += n); 
+function AumentarValor(n) {
+  CambiarImg(slideIndex += n); 
 }
 
-function showDivs(n) {
+function CambiarImg(n) {
   var i;
   var _SlideActual = document.getElementsByClassName("mySlides");
   if (n > _SlideActual.length) {slideIndex = 1}
