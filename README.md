@@ -4,8 +4,8 @@ Sitio creado con la intencion de promocionar el videojuego: Super Smash Bros. Ul
 Creado por:
 III año - Desarrollo de Software CDB
 
-1- 
-2- Gerardo Antonio Herrera Cruz #15
+1- Óscar Alexander Guevara Rodríguez #14
+2-
 3- Cristian Alexis López Tamayo #18
 4- Diego Ariel Martinez Lemus #24 
 5- Edmilson Alejandro Martínez Reynosa #25
