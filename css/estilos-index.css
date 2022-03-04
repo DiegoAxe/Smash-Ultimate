@@ -119,7 +119,7 @@ section{
     padding: 2.5em 0 0 0; 
     margin-left: auto;
     margin-right: auto;
-
+    text-align: justify;
 }
 .contenedor{ /* Contenedor general de la sección */
     width: 100%;
@@ -189,6 +189,7 @@ section{
 .contenedor .benefit p{/*Texto de cada ventaja */
     line-height: 1.35em;/* Distancia entre lineas */
     margin-left: 5.62em;
+    margin-right: 10em;
     font-size: 1.1em;
 }
 
