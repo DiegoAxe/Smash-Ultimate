@@ -8,6 +8,6 @@ III año - Desarrollo de Software CDB
 2-
 3- 
 4- Diego Ariel Martinez Lemus #24 
-5- 
+5- Edmilson Alejandro Martínez Reynosa #25
 
 Desafio de Aprendizaje 1 - Con aplicacion de JS
