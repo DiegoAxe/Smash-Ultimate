@@ -12,7 +12,7 @@ function mostrarResultados(){ //Funcion que se ejecutara al presionar el boton
     Iva = Iva.toFixed(2); //Limita los decimales de la variable Iva a solo 2
     Total = Total.toFixed(2);  //Limita los decimales de la variable Total a solo 2
 
-    if (Nombre !=0 && Correo !=0 && formCantidad > 1 ) {
+    if (Nombre !=0 && Correo !=0 && formCantidad >= 1 ) {
         document.getElementById("Resultados").style.height = "fit-content"; //Aumentara el tamaño del Div "Resultados"
         document.getElementById("Resultados").style.padding = "20px 0 70px 20px"; //Aumentara el padding del Div "Resultados"
         document.getElementById("Resultados").style.border = "1px solid blue"; //Dara estilo a los bordes del Div "Resultados"
